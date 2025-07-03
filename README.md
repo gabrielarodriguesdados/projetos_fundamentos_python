@@ -1,7 +1,7 @@
 # 🐍 projetos_fundamentos_python
 ![image](https://github.com/user-attachments/assets/46b35ec9-dd71-411d-a949-7a3079ec468d)
 
-Este repositório contém uma coleção de pequenos projetos desenvolvidos para praticar os **fundamentos da linguagem Python**. Os exemplos aqui abordam conceitos essenciais para quem está iniciando na programação com Python.
+Este repositório contém uma coleção de pequenos projetos e Laboratórios desenvolvidos para praticar os **fundamentos da linguagem Python**. Os exemplos aqui abordam conceitos essenciais para quem está iniciando na programação com Python.
 
 ## 📚 Conteúdos abordados
 
